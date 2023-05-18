@@ -1,0 +1,137 @@
+{
+  "shoes": [
+    {
+      "id": 0,
+      "name": {
+        "ua": "Жіночі туфлі Respect бежеві",
+        "en": "Female shoes Respect beige"
+      },
+      "season": { "ua": "літо", "en": "summer" },
+      "article": "IS73-153225",
+      "category": "shoes",
+      "sale": false,
+      "price": 1759,
+      "priseSale": 1759,
+      "color": { "ua": "бежевий", "en": "beige" },
+      "material": { "ua": "нат.велюр", "en": "natural velur" },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/cache/data/products/IS73-153225/IS73-153225-1-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/IS73-153225/IS73-153225-2-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/IS73-153225/IS73-153225-3-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/IS73-153225/IS73-153225-4-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/IS73-153225/IS73-153225-5-515x687.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [37, 41]
+    },
+    {
+      "id": 1,
+      "name": {
+        "ua": "Балетки Respect жовті",
+        "en": "Ballet flats Respect yellow"
+      },
+      "season": { "ua": "літо", "en": "summer" },
+      "article": "VS75-147315",
+      "category": "ballet",
+      "sale": true,
+      "price": 3995,
+      "priseSale": 2388,
+      "color": { "ua": "жовтий", "en": "yellow" },
+      "material": { "ua": "нат.шкіра", "en": "natural leather" },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/cache/data/products/VS75-147315/VS75-147315-1-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS75-147315/VS75-147315-2-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS75-147315/VS75-147315-3-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS75-147315/VS75-147315-4-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS75-147315/VS75-147315-5-515x687.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [37, 38]
+    },
+    {
+      "id": 2,
+      "name": {
+        "ua": "Жіночі кросівки Respect білі",
+        "en": "Female sneakers Respect white"
+      },
+      "season": { "ua": "літо", "en": "summer" },
+      "article": "616-2",
+      "category": "sneakers",
+      "sale": true,
+      "price": 4090,
+      "priseSale": 3468,
+      "color": { "ua": "білий", "en": "white" },
+      "material": {
+        "ua": "нат.шкіра/текстиль",
+        "en": "natural leather/textile"
+      },
+      "materialBottom": { "ua": "ПУ", "en": "Polyurethane" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/cache/data/products/616-2/616-2-1-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/616-2/616-2-2-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/616-2/616-2-3-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/616-2/616-2-4-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/616-2/616-2-5-515x687.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [37, 38, 39, 40, 41]
+    },
+    {
+      "id": 3,
+      "name": {
+        "ua": "Жіночі черевики Respect чорний",
+        "en": "Female sneakers Respect white"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "028-9052 R03",
+      "category": "boots",
+      "sale": true,
+      "price": 3389,
+      "priseSale": 6500,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": { "ua": "нат.шкіра", "en": "natural leather" },
+      "materialBottom": { "ua": "ТЕП", "en": "thermoplastic rubber" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/cache/data/products/028-9052-R03/028-9052-R03-1-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/028-9052-R03/028-9052-R03-2-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/028-9052-R03/028-9052-R03-3-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/028-9052-R03/028-9052-R03-4-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/028-9052-R03/028-9052-R03-5-515x687.jpg"
+      ],
+      "country": { "ua": "Турція", "en": "Turkey" },
+      "sizes": [38, 39, 40, 41]
+    },
+    {
+      "id": 4,
+      "name": {
+        "ua": "Жіночі босоніжки Respect чорний",
+        "en": "Female sandals Respect black"
+      },
+      "season": { "ua": "літо", "en": "summer" },
+      "article": "AS071-1",
+      "category": "sandals",
+      "sale": false,
+      "price": 3290,
+      "priseSale": 3290,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": { "ua": "нат.шкіра", "en": "natural leather" },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/cache/data/products/AS071-1/AS071-1-1-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/AS071-1/AS071-1-2-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/AS071-1/AS071-1-3-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/AS071-1/AS071-1-4-515x687.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/AS071-1/AS071-1-5-515x687.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [37, 38, 41]
+    }
+  ]
+}
