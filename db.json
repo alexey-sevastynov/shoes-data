@@ -24,7 +24,8 @@
         "https://respect-shoes.com.ua/image/data/products/IS73-153225/IS73-153225_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 41]
+      "sizes": [37, 41],
+      "rating": 1
     },
     {
       "id": 1,
@@ -50,7 +51,8 @@
         "https://respect-shoes.com.ua/image/data/products/VS75-147315/VS75-147315_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 38]
+      "sizes": [37, 38],
+      "rating": 2
     },
     {
       "id": 2,
@@ -79,7 +81,8 @@
         "https://respect-shoes.com.ua/image/data/products/616-2/616-2_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 38, 39, 40, 41]
+      "sizes": [37, 38, 39, 40, 41],
+      "rating": 6
     },
     {
       "id": 3,
@@ -105,7 +108,8 @@
         "https://respect-shoes.com.ua/image/data/products/028-9052-R03/028-9052-R03_5.jpg"
       ],
       "country": { "ua": "Турція", "en": "Turkey" },
-      "sizes": [38, 39, 40, 41]
+      "sizes": [38, 39, 40, 41],
+      "rating": 1
     },
     {
       "id": 4,
@@ -131,7 +135,8 @@
         "https://respect-shoes.com.ua/image/data/products/AS071-1/AS071-1_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 38, 41]
+      "sizes": [37, 38, 41],
+      "rating": 9
     },
     {
       "id": 5,
@@ -157,7 +162,8 @@
         "https://respect-shoes.com.ua/image/data/products/VS10-146456/VS10-146456_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [36, 37, 38, 39, 40, 41]
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "rating": 1
     },
     {
       "id": 6,
@@ -183,7 +189,8 @@
         "https://respect-shoes.com.ua/image/data/products/VS10-134167/VS10-134167_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 39]
+      "sizes": [37, 39],
+      "rating": 1
     },
     {
       "id": 7,
@@ -209,7 +216,8 @@
         "https://respect-shoes.com.ua/image/data/products/VS73-147220/VS73-147220_5.jpg"
       ],
       "country": { "ua": "Турція", "en": "Turkey" },
-      "sizes": [36, 37, 38, 39, 40]
+      "sizes": [36, 37, 38, 39, 40],
+      "rating": 3
     },
     {
       "id": 8,
@@ -235,7 +243,8 @@
         "https://respect-shoes.com.ua/image/data/products/IS56-140306/IS56-140306_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 38, 39]
+      "sizes": [37, 38, 39],
+      "rating": 10
     },
     {
       "id": 9,
@@ -261,7 +270,8 @@
         "https://respect-shoes.com.ua/image/data/products/4068-Starblue/4068-Starblue_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [37, 38, 39]
+      "sizes": [37, 38, 39],
+      "rating": 1
     },
     {
       "id": 10,
@@ -287,7 +297,8 @@
         "https://respect-shoes.com.ua/image/data/products/VS73-147236/VS73-147236_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [38, 39, 40]
+      "sizes": [38, 39, 40],
+      "rating": 4
     },
     {
       "id": 11,
@@ -313,7 +324,8 @@
         "https://respect-shoes.com.ua/image/data/products/VK53-148805/VK53-148805_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [36, 37, 38, 40]
+      "sizes": [36, 37, 38, 40],
+      "rating": 8
     },
     {
       "id": 12,
@@ -339,7 +351,8 @@
         "https://respect-shoes.com.ua/image/data/products/CC6190-WL/CC6190-WL_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [36, 37, 38, 40]
+      "sizes": [36, 37, 38, 40],
+      "rating": 5
     },
     {
       "id": 13,
@@ -368,7 +381,8 @@
         "https://respect-shoes.com.ua/image/data/products/AS2531-3/AS2531-3_5.jpg"
       ],
       "country": { "ua": "Китай", "en": "China" },
-      "sizes": [36, 37, 38, 40, 41]
+      "sizes": [36, 37, 38, 40, 41],
+      "rating": 1
     }
   ]
 }
