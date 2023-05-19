@@ -90,7 +90,7 @@
         "ua": "Жіночі черевики Respect чорний",
         "en": "Female sneakers Respect white"
       },
-      "season": { "ua": "Демі", "en": "Demі" },
+      "season": { "ua": "Демі", "en": "demі" },
       "article": "028-9052 R03",
       "category": "boots",
       "sale": true,
@@ -144,7 +144,7 @@
         "ua": "Жіночі ботфорти Respect чорний",
         "en": "Female jackboots Respect black"
       },
-      "season": { "ua": "Зима", "en": "Winter" },
+      "season": { "ua": "Зима", "en": "winter" },
       "article": "VS10-146456",
       "category": "jackboots",
       "sale": true,
@@ -171,7 +171,7 @@
         "ua": "Жіночі ботфорти Respect чорний",
         "en": "Female jackboots Respect black"
       },
-      "season": { "ua": "Зима", "en": "Winter" },
+      "season": { "ua": "Зима", "en": "winter" },
       "article": "VS10-134167",
       "category": "jackboots",
       "sale": true,
@@ -198,7 +198,7 @@
         "ua": "Жіночі туфлі Respect чорні",
         "en": "Female shoes Respect black"
       },
-      "season": { "ua": "Year", "en": "Рік" },
+      "season": { "ua": "Рік", "en": "year" },
       "article": "37360-1 BLACK",
       "category": "shoes",
       "sale": true,
@@ -279,7 +279,7 @@
         "ua": "Жіночі туфлі Respect жовті",
         "en": "Female shoes Respect yellow"
       },
-      "season": { "ua": "Year", "en": "Рік" },
+      "season": { "ua": "Рік", "en": "year" },
       "article": "VS73-147236",
       "category": "shoes",
       "sale": false,
@@ -306,7 +306,7 @@
         "ua": "Жіночі кросівки Respect зелені",
         "en": "Female shoes Respect yellow"
       },
-      "season": { "ua": "Літо", "en": "Summer" },
+      "season": { "ua": "Літо", "en": "summer" },
       "article": "VK53-148805",
       "category": "sneakers",
       "sale": true,
@@ -333,7 +333,7 @@
         "ua": "Жіночі кеди Corso Como фіолетові",
         "en": "Female rubber footwear Corso Como purple"
       },
-      "season": { "ua": "Літо", "en": "Summer" },
+      "season": { "ua": "Літо", "en": "summer" },
       "article": "CC6190-WL",
       "category": "sneakers",
       "sale": false,
@@ -360,7 +360,7 @@
         "ua": "Жіночі кросівки Respect мульті",
         "en": "Female sneakers Respect multi"
       },
-      "season": { "ua": "Літо", "en": "Summer" },
+      "season": { "ua": "Літо", "en": "summer" },
       "article": "AS2531-3",
       "category": "sneakers",
       "sale": true,
