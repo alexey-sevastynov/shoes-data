@@ -575,6 +575,176 @@
       "country": { "ua": "Німеччина", "en": "Germany" },
       "sizes": [38, 41],
       "rating": 9
+    },
+    {
+      "id": 18,
+      "name": {
+        "ua": "Жіночі черевики Respect чорний",
+        "en": "Female boots Respect black"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "030-520-1238",
+      "category": "boots",
+      "sale": true,
+      "price": 5295,
+      "priceSale": 2639,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "ТЕП", "en": "ПВХ" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/030-520-1238/030-520-1238_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/030-520-1238/030-520-1238_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/030-520-1238/030-520-1238_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/030-520-1238/030-520-1238_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/030-520-1238/030-520-1238_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/030-520-1238/030-520-1238-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/030-520-1238/030-520-1238-3-386x515.jpg"
+      ],
+      "country": { "ua": "Туреччина", "en": "Turkey" },
+      "sizes": [36, 37, 38, 39, 41],
+      "rating": 9
+    },
+    {
+      "id": 19,
+      "name": {
+        "ua": "Жіночі черевики Respect сірий",
+        "en": "Female boots Respect grey"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "108534-17W",
+      "category": "boots",
+      "sale": true,
+      "price": 5795,
+      "priceSale": 2889,
+      "color": { "ua": "сірий", "en": "grey" },
+      "material": {
+        "ua": "текстиль",
+        "en": "textile"
+      },
+      "materialBottom": { "ua": "ТЕП", "en": "ПВХ" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/108534-17W/108534-17W_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/108534-17W/108534-17W_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/108534-17W/108534-17W_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/108534-17W/108534-17W_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/108534-17W/108534-17W_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/108534-17W/108534-17W-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/108534-17W/108534-17W-3-386x515.jpg"
+      ],
+      "country": { "ua": "Туреччина", "en": "Turkey" },
+      "sizes": [36, 37, 38, 39, 40],
+      "rating": 2
+    },
+    {
+      "id": 20,
+      "name": {
+        "ua": "Жіночі черевики Respect бежевий",
+        "en": "Female boots Respect beige"
+      },
+      "season": { "ua": "Зима", "en": "Winter" },
+      "article": "11701-1",
+      "category": "boots",
+      "sale": true,
+      "price": 9000,
+      "priceSale": 6500,
+      "color": { "ua": "сірий", "en": "beige" },
+      "material": {
+        "ua": "нат.спилок",
+        "en": "natural spin"
+      },
+      "materialBottom": { "ua": "ТЕП", "en": "ТЕП" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/22K10038-VIZON/22K10038-VIZON_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/22K10038-VIZON/22K10038-VIZON_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/22K10038-VIZON/22K10038-VIZON_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/22K10038-VIZON/22K10038-VIZON_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/22K10038-VIZON/22K10038-VIZON_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/22K10038-VIZON/22K10038-VIZON-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/22K10038-VIZON/22K10038-VIZON-3-386x515.jpg"
+      ],
+      "country": { "ua": "Португалія", "en": "Portugal" },
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "rating": 8
+    },
+    {
+      "id": 21,
+      "name": {
+        "ua": "Жіночі черевики Respect зелений",
+        "en": "Female boots Respect green"
+      },
+      "season": { "ua": "Зима", "en": "Winter" },
+      "article": "F577-6409-6",
+      "category": "boots",
+      "sale": true,
+      "price": 6000,
+      "priceSale": 4900,
+      "color": { "ua": "зелений", "en": "green" },
+      "material": {
+        "ua": "нат.вовна",
+        "en": " natural wool"
+      },
+      "materialBottom": { "ua": "ТПГ", "en": "ТПГ" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/F577-6409-6/F577-6409-6_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/F577-6409-6/F577-6409-6_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/F577-6409-6/F577-6409-6_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/F577-6409-6/F577-6409-6_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/F577-6409-6/F577-6409-6_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/F577-6409-6/F577-6409-6-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/F577-6409-6/F577-6409-6-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 38, 39],
+      "rating": 8
+    },
+    {
+      "id": 22,
+      "name": {
+        "ua": "Жіночі черевики Respect рожевий",
+        "en": "Female boots Respect pink"
+      },
+      "season": { "ua": "Зима", "en": "Winter" },
+      "article": "VK12-135152",
+      "category": "boots",
+      "sale": true,
+      "price": 4000,
+      "priceSale": 1600,
+      "color": { "ua": "рожевий", "en": "pink" },
+      "material": {
+        "ua": "нат.спилок",
+        "en": "natural spin"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/VK12-135152/VK12-135152_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK12-135152/VK12-135152_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK12-135152/VK12-135152_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK12-135152/VK12-135152_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK12-135152/VK12-135152_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/VK12-135152/VK12-135152-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VK12-135152/VK12-135152-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 39],
+      "rating": 10
     }
   ]
 }
