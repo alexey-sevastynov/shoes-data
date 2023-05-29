@@ -263,7 +263,7 @@
       "sale": true,
       "price": 4890,
       "priceSale": 3418,
-      "color": { "ua": "блакитний", "en": "blue" },
+      "color": { "ua": "блакитний", "en": "azure" },
       "material": { "ua": "нат.велюр", "en": "natural leather" },
       "materialBottom": { "ua": "кожволон", "en": "leatherskin" },
       "heelHight": { "ua": "високий", "en": "high" },
@@ -294,7 +294,7 @@
       "sale": false,
       "price": 2990,
       "priceSale": 2990,
-      "color": { "ua": "блакитний", "en": "blue" },
+      "color": { "ua": "блакитний", "en": "azure" },
       "material": { "ua": "нат.велюр", "en": "natural leather" },
       "materialBottom": { "ua": "ПУ", "en": "Polyurethane" },
       "heelHight": { "ua": "низький", "en": "low" },
@@ -325,7 +325,7 @@
       "sale": false,
       "price": 2688,
       "priceSale": 2688,
-      "color": { "ua": "блакитний", "en": "blue" },
+      "color": { "ua": "жовті", "en": "yellow" },
       "material": { "ua": "нат.шкіра", "en": "natural leather" },
       "materialBottom": { "ua": "ПУ", "en": "Polyurethane" },
       "heelHight": { "ua": "низький", "en": "low" },
@@ -387,7 +387,7 @@
       "sale": false,
       "price": 3200,
       "priceSale": 3200,
-      "color": { "ua": "фіолетовий", "en": "purple" },
+      "color": { "ua": "фіолетовий", "en": "violet" },
       "material": { "ua": "нат.велюр", "en": "natural velur" },
       "materialBottom": { "ua": "ТЕП", "en": "thermoplastic rubber" },
       "heelHight": { "ua": "низький", "en": "low" },
@@ -779,6 +779,244 @@
       "country": { "ua": "Китай", "en": "China" },
       "sizes": [36, 37, 38],
       "rating": 6
+    },
+    {
+      "id": 24,
+      "name": {
+        "ua": "Жіночі ботильйони Corso Como чорний",
+        "en": "Female bottiliones Corso Como black"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "CC5230-WT",
+      "category": "ankle boots",
+      "sale": false,
+      "price": 7895,
+      "priceSale": 7895,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "високий", "en": "high" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/CC5230-WT/CC5230-WT_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5230-WT/CC5230-WT_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5230-WT/CC5230-WT_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5230-WT/CC5230-WT_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5230-WT/CC5230-WT_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/CC5230-WT/CC5230-WT-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/CC5230-WT/CC5230-WT-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 38],
+      "rating": 8
+    },
+    {
+      "id": 25,
+      "name": {
+        "ua": "Жіночі ботильйони Respect сірий",
+        "en": "Female bottiliones Respect grey"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "VS32-146212",
+      "category": "ankle boots",
+      "sale": false,
+      "price": 6095,
+      "priceSale": 6095,
+      "color": { "ua": "сірий", "en": "grey" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "високий", "en": "high" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/VS32-146212/VS32-146212_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-146212/VS32-146212_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-146212/VS32-146212_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-146212/VS32-146212_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-146212/VS32-146212_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/VS32-146212/VS32-146212-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS32-146212/VS32-146212-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 38, 40],
+      "rating": 2
+    },
+    {
+      "id": 26,
+      "name": {
+        "ua": "Жіночі ботильйони Respect чорний",
+        "en": "Female bottiliones Respect black"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "IS32-146150",
+      "category": "ankle boots",
+      "sale": true,
+      "price": 5695,
+      "priceSale": 1707,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "ТЕП", "en": "ТЕП" },
+      "heelHight": { "ua": "високий", "en": "high" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/IS32-146150/IS32-146150_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/IS32-146150/IS32-146150_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/IS32-146150/IS32-146150_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/IS32-146150/IS32-146150_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/IS32-146150/IS32-146150_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/IS32-146150/IS32-146150-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/IS32-146150/IS32-146150-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [38, 40],
+      "rating": 9
+    },
+    {
+      "id": 27,
+      "name": {
+        "ua": "Жіночі ботильйони Respect чорний",
+        "en": "Female bottiliones Respect black"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "VS32-131135",
+      "category": "ankle boots",
+      "sale": false,
+      "price": 6395,
+      "priceSale": 6395,
+      "color": { "ua": "чорний", "en": "black" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "ТЕП", "en": "ТЕП" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/VS32-131135/VS32-131135_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-131135/VS32-131135_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-131135/VS32-131135_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-131135/VS32-131135_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VS32-131135/VS32-131135_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/VS32-131135/VS32-131135-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/VS32-131135/VS32-131135-3-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 38, 39, 40, 41],
+      "rating": 3
+    },
+    {
+      "id": 28,
+      "name": {
+        "ua": "Жіночі босоніжки Respect блакитний",
+        "en": "Female sandals Respect blue"
+      },
+      "season": { "ua": "Літо", "en": "Summer" },
+      "article": "111-16112 R26",
+      "category": "sandals",
+      "sale": false,
+      "price": 3000,
+      "priceSale": 3000,
+      "color": { "ua": "блакитний", "en": "azure" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/111-16112-R26/111-16112-R26_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/111-16112-R26/111-16112-R26_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/111-16112-R26/111-16112-R26_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/111-16112-R26/111-16112-R26_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/111-16112-R26/111-16112-R26_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/111-16112-R26/111-16112-R26-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/111-16112-R26/111-16112-R26-3-386x515.jpg"
+      ],
+      "country": { "ua": "Туреччина", "en": "Turkey" },
+      "sizes": [36, 39, 40, 41],
+      "rating": 5
+    },
+    {
+      "id": 29,
+      "name": {
+        "ua": "Жіночі босоніжки Respect червоний",
+        "en": "Female sandals Respect red"
+      },
+      "season": { "ua": "Літо", "en": "Summer" },
+      "article": "VK56-141173",
+      "category": "sandals",
+      "sale": true,
+      "price": 3395,
+      "priceSale": 2368,
+      "color": { "ua": "червоний", "en": "red" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "середній", "en": "average" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/VK56-141173/VK56-141173_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK56-141173/VK56-141173_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK56-141173/VK56-141173_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK56-141173/VK56-141173_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/VK56-141173/VK56-141173_4.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/111-16112-R26/111-16112-R26-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/111-16112-R26/111-16112-R26-3-386x515.jpg"
+      ],
+      "country": { "ua": "Бразилія", "en": "Brasil" },
+      "sizes": [36, 38, 39, 40, 41],
+      "rating": 8
+    },
+    {
+      "id": 30,
+      "name": {
+        "ua": "Жіночі босоніжки Respect коричневий",
+        "en": "Female sandals Respect brown"
+      },
+      "season": { "ua": "Літо", "en": "Summer" },
+      "article": "034-513 R44",
+      "category": "sandals",
+      "sale": false,
+      "price": 3395,
+      "priceSale": 3395,
+      "color": { "ua": "коричневий", "en": "brown" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "ТПУ", "en": "ТПУ" },
+      "heelHight": { "ua": "низький", "en": "low" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/034-513-R44/034-513-R44_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/034-513-R44/034-513-R44_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/034-513-R44/034-513-R44_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/034-513-R44/034-513-R44_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/034-513-R44/034-513-R44_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/034-513-R44/034-513-R44-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/034-513-R44/034-513-R44-3-386x515.jpg"
+      ],
+      "country": { "ua": "Туреччина", "en": "Turkey" },
+      "sizes": [36],
+      "rating": 8
     }
   ]
 }
