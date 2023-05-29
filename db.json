@@ -745,6 +745,40 @@
       "country": { "ua": "Китай", "en": "China" },
       "sizes": [36, 37, 39],
       "rating": 10
+    },
+    {
+      "id": 23,
+      "name": {
+        "ua": "Жіночі ботильйони Corso Como бежевий",
+        "en": "Female bottiliones Corso Como beige"
+      },
+      "season": { "ua": "Демі", "en": "Demі" },
+      "article": "CC5291-WT",
+      "category": "ankle boots",
+      "sale": false,
+      "price": 7495,
+      "priceSale": 7495,
+      "color": { "ua": "рожевий", "en": "beige" },
+      "material": {
+        "ua": "нат.шкіра",
+        "en": "natural leather"
+      },
+      "materialBottom": { "ua": "Туніт", "en": "Tunit" },
+      "heelHight": { "ua": "високий", "en": "high" },
+      "imageURL": [
+        "https://respect-shoes.com.ua/image/data/products/CC5291-WT/CC5291-WT_1.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5291-WT/CC5291-WT_2.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5291-WT/CC5291-WT_3.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5291-WT/CC5291-WT_4.jpg",
+        "https://respect-shoes.com.ua/image/data/products/CC5291-WT/CC5291-WT_5.jpg"
+      ],
+      "imageURLMain": [
+        "https://respect-shoes.com.ua/image/cache/data/products/CC5291-WT/CC5291-WT-1-386x515.jpg",
+        "https://respect-shoes.com.ua/image/cache/data/products/CC5291-WT/CC5291-WT-4-386x515.jpg"
+      ],
+      "country": { "ua": "Китай", "en": "China" },
+      "sizes": [36, 37, 38],
+      "rating": 6
     }
   ]
 }
